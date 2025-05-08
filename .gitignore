@@ -1,1 +1,8 @@
+# Q. What kind of files should be ignored?
+# A. Files with sensitive information (Ex. API keys, Credentials, Etc.)
+#    Useless system-generated files (Ex. `.DS-Store`, `dist` folders, Etc.)
+#    Dependencies which can be downloaded from a package manager
+#    Log files
+
+# Ignore every Linux's portable object files
 *.o
