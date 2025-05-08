@@ -4,5 +4,5 @@
 #    Dependencies which can be downloaded from a package manager
 #    Log files
 
-# Ignore every Linux's portable object files
+# Ignore Linux's every portable object file
 *.o
